@@ -13,10 +13,11 @@ I just created (*or still developing*) a project that displays a cube in **Vulka
 ## Requirements
 - Android Studio
   - The emulator you want (*or just connect to your device*)
+  - CMake
   - NDK
 
 ## Legal notice
-I would have a really hard time without the project template provided from Google. The source to the project it [here](https://github.com/googlesamples/android-vulkan-tutorials), I highly recommend to check this stuff. Huge thank you to you guys, keep up the good work 😉!
+I would have a really hard time without the project template provided from Google. The source to the project it [here](https://github.com/googlesamples/android-vulkan-tutorials), I highly recommend to check this stuff. Huge **thank you** (*bold letters here, it's a necessity*) to you guys, keep up the good work 😉!
 
 ## License
 Apache License, Version 2.0
